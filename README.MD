@@ -1,7 +1,7 @@
 # Ujian Tengah Semester - Pemrograman Python
 
 **Program Studi:** S1 Teknik Informatika  
-**Semester:** IV  
+**Semester:** V  
 **Mata Kuliah:** Pemrograman Python  
 **Dosen:** Triyono, S.Kom  
 **Tanggal Ujian:** 16 Oktober 2025  
@@ -34,6 +34,7 @@ uts_python_2/
 ---
 
 ## Pembuat
+
 **Nama:** Muhamad Rifky Hafan
 **NIM:** 230103169
 **Kelas:** TI23A5
