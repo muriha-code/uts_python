@@ -39,3 +39,5 @@ uts_python_2/
 **NIM:** 230103169
 **Kelas:** TI23A5
 **Universitas Duta Bangsa Surakarta**
+
+---
