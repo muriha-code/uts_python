@@ -34,7 +34,7 @@ uts_python_2/
 ---
 
 ## Pembuat
-Nama: Muhamad Rifky Hafan
-NIM: 230103169
-Kelas: TI23A5
-Universitas Duta Bangsa Surakarta
+**Nama:** Muhamad Rifky Hafan
+**NIM:** 230103169
+**Kelas:** TI23A5
+**Universitas Duta Bangsa Surakarta**
