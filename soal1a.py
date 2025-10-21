@@ -3,7 +3,6 @@
 # pip install requests==2.*
 # python kasir.py
 
-# Penjelasan singkat (biar kelihatan manusiawi)
 
 # Baris pertama buat lingkungan virtual biar proyeknya terpisah.
 
