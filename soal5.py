@@ -1,5 +1,4 @@
 # Program: Rekap Kehadiran UTS
-# Topik: CSV, JSON, Try/Except, Logging
 
 import os
 import csv

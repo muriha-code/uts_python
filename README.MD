@@ -26,8 +26,7 @@ uts_python_2/
 ├── soal2.py          # Input sederhana & percabangan if-else
 ├── soal3.py          # Fungsi dan parameter bawaan (hitung ongkir layanan kirim "RapidSend")
 ├── soal4.py          # Data jadwal dengan list & dictionary
-├── soal5.py          # File CSV/JSON + Try/Except + Logging sederhana
-└── virtualenv/       # Folder virtual environment hasil dari 1a
+└── soal5.py          # File CSV/JSON + Try/Except + Logging sederhana
 
 ```
 

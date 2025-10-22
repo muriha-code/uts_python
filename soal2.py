@@ -1,4 +1,4 @@
-# Program: Menentukan Kategori Setoran Koperasi
+# Program: Koperasi mencatat 3 setoran mingguan dan mengkategorikan total setoran.
 
 # minta input dari user
 setoran1 = int(input("Masukkan setoran pertama: "))
